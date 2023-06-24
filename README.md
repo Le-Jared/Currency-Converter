@@ -16,10 +16,10 @@ The application consists of the following main classes:
 Unit tests are also included to validate the functionality of the Currency Converter.
 
 ### Usage
-Clone the repository
-Import the project into your favorite IDE (the project is structured for IntelliJ IDEA)
-The main method resides in the CurrencyConverter class, which can be run directly.
-Ensure that the required JSON files (users.json, fx_rates.json) and the transactions.txt file are present in the specified paths.
+1. Clone the repository
+2. Import the project into your favorite IDE 
+3. The main method resides in the CurrencyConverter class, which can be run directly.
+4. Ensure that the required JSON files (users.json, fx_rates.json) and the transactions.txt file are present in the specified paths.
 
 ### Test Coverage
 The project includes unit tests written with Junit5 and Mockito. These tests cover various scenarios including:
