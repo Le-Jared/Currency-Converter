@@ -24,14 +24,14 @@ Ensure that the required JSON files (users.json, fx_rates.json) and the transact
 ### Test Coverage
 The project includes unit tests written with Junit5 and Mockito. These tests cover various scenarios including:
 
-Loading exchange rates
-Processing transactions
-Writing updated user information to a JSON file
-Handling invalid transaction lines, insufficient funds, and unknown users
+* Loading exchange rates
+* Processing transactions
+* Writing updated user information to a JSON file
+* Handling invalid transaction lines, insufficient funds, and unknown users
 
 ### Dependencies
-Java 8 or later
-Jackson for JSON processing
-Log4j2 for logging
-JUnit5 and Mockito for testing
+* Java 8 or later
+* Jackson for JSON processing
+* Log4j2 for logging
+* JUnit5 and Mockito for testing
  
