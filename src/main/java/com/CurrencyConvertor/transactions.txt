@@ -1,0 +1,5 @@
+Tom cad usd 100
+Dick cad eur 20
+Harry usd usd 1000
+Tom usd hkd 30
+Dick hkd krw 184

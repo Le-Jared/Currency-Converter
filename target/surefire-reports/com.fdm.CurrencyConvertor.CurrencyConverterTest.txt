@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.fdm.CurrencyConvertor.CurrencyConverterTest
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.755 s - in com.fdm.CurrencyConvertor.CurrencyConverterTest
